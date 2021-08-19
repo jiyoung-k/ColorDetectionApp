@@ -1,0 +1,15 @@
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\bin\Debug\ColorDetectionApp.exe.config
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\bin\Debug\ColorDetectionApp.exe
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\bin\Debug\ColorDetectionApp.pdb
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\MainWindow.g.cs
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\App.g.cs
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp_MarkupCompile.cache
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp_MarkupCompile.lref
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\MainWindow.baml
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.g.resources
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.Properties.Resources.resources
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.csproj.GenerateResource.cache
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.csproj.CoreCompileInputs.cache
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.exe
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.pdb
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
