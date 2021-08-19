@@ -13,3 +13,4 @@ C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.c
 C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.exe
 C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.pdb
 C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\NeuronAware\ColorDetectionApp\ColorDetectionApp\obj\Debug\ColorDetectionApp.csprojAssemblyReference.cache

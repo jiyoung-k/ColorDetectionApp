@@ -134,13 +134,13 @@ namespace ColorDetectionApp
             Sum_G += color.G;
             Sum_B += color.B;
 
-            Min_R = GetMinScore(R, color.R);
-            Min_G = GetMinScore(G, color.G);
-            Min_B = GetMinScore(B, color.B);
+            Min_R = GetMinScore(Min_R, color.R);
+            Min_G = GetMinScore(Min_G, color.G);
+            Min_B = GetMinScore(Min_B, color.B);
 
-            Max_R = GetMaxScore(R, color.R);
-            Max_G = GetMaxScore(G, color.G);
-            Max_B = GetMaxScore(B, color.B);
+            Max_R = GetMaxScore(Max_R, color.R);
+            Max_G = GetMaxScore(Max_G, color.G);
+            Max_B = GetMaxScore(Max_B, color.B);
 
             R = color.R;
             G = color.G;
