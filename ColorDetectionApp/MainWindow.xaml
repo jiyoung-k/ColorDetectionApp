@@ -16,6 +16,7 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
+                    <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="20"/>
@@ -23,11 +24,15 @@
                 </Grid.RowDefinitions>
                 <Menu Grid.Row="0" Grid.Column="0">
                     <MenuItem x:Name="OpenImage" Header="Open Image" Click="OpenImage_Click"/>
+                    <MenuItem x:Name="AutoDetection" Header="Auto Detection" Click="AutoDetection_Click"/>
+                    <MenuItem x:Name="CropArea" Header="Crop Area" Click="CropArea_Click"/>
                 </Menu>
-                <TextBlock Grid.Row="0" Grid.Column="1" x:Name="PointStatus" FontSize="15" TextAlignment="Right"/>
-                <Grid Background="Black" Grid.Row="1" Grid.ColumnSpan="2">
+                <TextBlock Grid.Row="0" Grid.Column="1" x:Name="FileName" FontSize="7" TextAlignment="Center"/>
+                <TextBlock Grid.Row="0" Grid.Column="2" x:Name="PointStatus" FontSize="15" TextAlignment="Right"/>
+                <Grid Background="Black" Grid.Row="1" Grid.ColumnSpan="3" x:Name="MainGrid">
                     <Image x:Name="ColorDetectionImage" Stretch="Uniform" MouseMove="ColorDetectionImage_MouseMove"/>
                     <local:ColorDetectionAreaCanvas x:Name="ColorDetectionAreaCanvas"/>
+                    <TextBlock x:Name="StatusText" FontSize="30" FontWeight="Bold" Visibility="Hidden" Background="AliceBlue" TextAlignment="Center" VerticalAlignment="Center"/>
                 </Grid>
             </Grid>
         </Grid>

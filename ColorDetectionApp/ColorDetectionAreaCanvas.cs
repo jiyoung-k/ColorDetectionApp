@@ -36,7 +36,7 @@ namespace ColorDetectionApp
         {
             base.OnRender(dc);
             Rect rect = new Rect(left, top, width, height);
-            Pen pen = new Pen(new SolidColorBrush(Colors.Blue), 2);
+            Pen pen = new Pen(new SolidColorBrush(Colors.LightBlue), 2);
             dc.DrawRectangle(null, pen, rect);
         }
 
